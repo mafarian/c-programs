@@ -1,7 +1,5 @@
-/*O objetivo do programa é resolver um sudoku usando bakctracking.
-Nome: Vincius Maciel
-RA: 188201
-*/
+//O objetivo do programa é resolver um sudoku usando bakctracking.
+
 #include <stdio.h>
 #include <stdlib.h>
 
