@@ -1,6 +1,5 @@
 # c-programs
 
-Hi there. Here I'm going to show some silly (or not) codes I've made in college, in C.
-I'm new here, dunno what to expect to.
+Hi there. Here I'm gonna expose some silly (or not) codes I've been making in college, in C language.
 
 Bye :)
